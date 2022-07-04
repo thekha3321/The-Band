@@ -170,7 +170,7 @@ html {
     position: relative;
     margin-top: 46px;
     padding-top: 50%;
-    background: url('/assets/img/slide_1/chicago.jpg') top center / cover no-repeat;
+    background: url('../img/slide_1/chicago.jpg') top center / cover no-repeat;
 }
 
 #slider .text-content {
